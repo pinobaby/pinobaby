@@ -8,7 +8,7 @@ Software Engineer Student
 
 * 🌍  I'm based in Hermosillo, Sonora
 * ✉️  You can contact me at [angel.ismael684@gmail.com](mailto:angel.ismael684@gmail.com)
-* 🧠  I'm learning Dart
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting proyects
 
 ### Skills
